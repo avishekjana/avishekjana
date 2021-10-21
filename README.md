@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avishekjana
+- 👋 Hi, I’m Avishek Jana
 - 👀 I’m interested in ReactJS & Ruby on Rails
 - 🌱 I’m currently learning Advance concepts in ReactJS
 - 💞️ I’m looking to collaborate on open react and ruby projects
